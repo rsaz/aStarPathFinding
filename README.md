@@ -9,7 +9,7 @@ Peter Hart, Nils Nilsson and Bertram Raphael of Stanford Research Institute (now
 
 ## Goal
 
-![Map example](Goal.png)
+![Map example](https://github.com/rsaz/aStarPathFinding/blob/master/Goal.PNG)
 
 In the Motion/Path Planning use A\* algorithm finds a path from the initial point (start node) to the destination (end node) by checking for open neighbors of the current node, computing a heuristic for each of the neighbors, and adding those neighbors to the list of open nodes to explore next. The next node to explore is the one with the lowest total cost + heuristic (g + h). This process is repeated until the end is found, as long as there are still open nodes to explore.
 
