@@ -6,6 +6,7 @@
 #include "Utils.h"
 
 using std::vector;
+using namespace Utils;
 
 void PrintVector(vector<int> v);
 

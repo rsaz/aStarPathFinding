@@ -112,7 +112,7 @@ void TestAddToOpen()
     }
     else
     {
-        cout << "passed"
+        cout << "PASSED"
              << "\n";
     }
     cout << "----------------------------------------------------------"
@@ -154,7 +154,7 @@ void TestCompare()
     }
     else
     {
-        cout << "U hu PASSED\n";
+        cout << "PASSED\n";
         cout << "------------------------------------------------------------\n";
     }
 }
